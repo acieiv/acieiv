@@ -1,7 +1,7 @@
 # Hi, I'm Acie 👋
 
 **Context Systems Builder**  
-Financial data analyst building products that turn fragmented signals into usable intelligence for real decisions.
+I build products that turn fragmented signals into usable intelligence for real decisions.
 
 I work at the intersection of **finance, data engineering, AI systems, product strategy, and decision-support software**.
 
@@ -43,6 +43,28 @@ Examples:
 
 ---
 
+## AI / Agentic Development
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Augment Code](https://img.shields.io/badge/Augment%20Code-111827?style=flat&logo=visualstudiocode&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=flat&logo=rabbitmq&logoColor=white)
+
+---
+
+## AI Frameworks / Infrastructure
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-Typed%20Agents-E92063?style=flat&logo=pydantic&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-Model%20Routing-111827?style=flat&logo=openai&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-Inference-111827?style=flat&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-4B5563?style=flat)
+
+---
+
 ## Active Projects
 
 ### [QuantCup](https://quantcup.io)
@@ -66,6 +88,6 @@ I care about building software that does more than store information or generate
 
 ## Find Me
 
-- 🌐 Website: coming soon
+- 🌐 Website: [quantcup.io](https://quantcup.io)
 - 💼 LinkedIn: [linkedin.com/in/acieiv](https://www.linkedin.com/in/acieiv)
 - 🧪 Building: QuantCup, Freeman Financial Framework, Worldlayer, uCOMM
