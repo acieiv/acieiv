@@ -1,88 +1,108 @@
 # Hi, I'm Acie 👋
 
-**Context Systems Builder**  
-I build products that turn fragmented signals into usable intelligence for real decisions.
+**Business-Fluent Technical Analyst | Context Systems Builder**
 
-I work at the intersection of **finance, data engineering, AI systems, product strategy, and decision-support software**.
+I build data systems, analytics tools, and AI-enabled decision-support software that turn fragmented information into usable intelligence for real decisions.
 
----
-
-## Current Focus
-
-- 🏈 **QuantCup** — football intelligence platform powered by ML predictions, transparent performance tracking, and AI analyst-style content
-- 💸 **Freeman Financial Framework** — personal finance decision system for paycheck-to-paycheck clarity, debt optimization, and behavioral sustainability
-- 🌍 **Worldlayer** — place-based context system for understanding the world around you
-- 🧠 **uCOMM** — personal command center for coordinating life through contextual intelligence
-- 🛠️ **Governed Agentic SDLC** — controlled software delivery pipeline using agents, review gates, policy checks, and human approval
+My background spans financial data analysis, regulated banking operations, telecom finance analytics, ETL automation, dashboarding, and business decision support. I’m now deepening that foundation through public technical projects in Python, SQL, APIs, machine learning, AI workflows, and full-stack data products.
 
 ---
 
-## What I Build
+## Current Direction
 
-I build **context systems** — products that collect, structure, interpret, and surface fragmented signals so people can understand a domain and act with more clarity.
+I’m focused on building practical technical projects that sit at the intersection of:
 
-Examples:
+- Finance and decision-support systems
+- Data engineering and analytics workflows
+- AI-assisted research and automation
+- Product-minded software development
+- Clear communication of complex data
 
-- Sports analytics → usable weekly football intelligence
-- Personal finance data → better debt, savings, and cash-flow decisions
-- Local/world signals → more useful place-based recommendations
-- Software delivery signals → safer agentic engineering workflows
+The common thread: taking messy signals, structuring them, and turning them into something people can actually use.
+
+---
+
+## Featured Project
+
+### [QuantCup](https://quantcup.io)
+
+QuantCup is a football intelligence platform currently in beta. It uses data, machine learning models, and AI-assisted analysis to publish weekly NFL predictions and insights.
+
+The project is my main public technical build and is designed to demonstrate:
+
+- Python-based data workflows
+- SQL-backed analytics
+- Model evaluation and performance tracking
+- API-driven application architecture
+- Frontend presentation of analytical insights
+- Transparent reporting around prediction quality
+
+---
+
+## Public Project Themes
+
+I’m building projects across a few focused areas:
+
+### Financial Decision Systems
+Tools that help translate personal finance data into clearer decisions around debt, cash flow, savings, and long-term planning.
+
+### Sports Analytics & Forecasting
+Projects focused on predictive modeling, performance tracking, betting-market analysis, and data storytelling.
+
+### AI-Assisted Research & Automation
+Workflows that use LLMs, agents, structured outputs, and retrieval to turn scattered information into useful briefs, summaries, and decision-support artifacts.
+
+### Data Engineering & Analytics Apps
+Projects involving API ingestion, database design, ETL/ELT workflows, dashboards, model evaluation, and full-stack data products.
 
 ---
 
 ## Tech I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ---
 
-## AI / Agentic Development
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Augment Code](https://img.shields.io/badge/Augment%20Code-111827?style=flat&logo=visualstudiocode&logoColor=white)
-![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF5700?style=flat&logo=rabbitmq&logoColor=white)
-
----
-
-## AI Frameworks / Infrastructure
+## AI / Data Tooling
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-Typed%20Agents-E92063?style=flat&logo=pydantic&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-Model%20Routing-111827?style=flat&logo=openai&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-Inference-111827?style=flat&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-4B5563?style=flat)
-
----
-
-## Active Projects
-
-### [QuantCup](https://quantcup.io)
-Football intelligence platform that uses data, ML models, and AI analyst personas to publish weekly NFL predictions and insights.
-
-### Freeman Financial Framework
-A financial clarity system focused on bills, essentials, debt repayment, emergency savings, long-term wealth, and behavioral sustainability.
-
-### Governed Agentic Software Delivery
-An enterprise-leaning agentic SDLC system focused on planning, implementation, validation, review, retry loops, and auditability.
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 ---
 
 ## Background
 
-Currently working in **Global Markets Operations** with exposure to credit, leveraged loans, trustee reporting, compliance workflows, borrowing-base reporting, and automation.
+I currently work in Global Markets Operations, supporting credit and structured finance workflows with exposure to leveraged loans, CLOs, trustee reporting, borrowing-base reporting, compliance processes, and reporting automation.
 
-I care about building software that does more than store information or generate content. The best products should help people interpret reality, coordinate action, and make better decisions.
+Before that, I worked in telecom finance analytics and business operations, where I built ETL workflows, dashboards, reporting tools, and decision-support processes for financial and operational teams.
+
+That background shapes how I build: I care about software that is technically useful, business-aware, and clear enough for real stakeholders to trust.
+
+---
+
+## What I'm Working Toward
+
+I’m using GitHub to document my progression from business analytics into more technical data and software work.
+
+My goal is to build public projects that demonstrate:
+
+- Stronger Python and SQL engineering
+- Practical API and database workflows
+- Applied machine learning and model evaluation
+- AI-enabled research and automation systems
+- Data products that explain insights clearly
+- Software that supports real decisions, not just dashboards
 
 ---
 
@@ -90,4 +110,3 @@ I care about building software that does more than store information or generate
 
 - 🌐 Website: [quantcup.io](https://quantcup.io)
 - 💼 LinkedIn: [linkedin.com/in/acieiv](https://www.linkedin.com/in/acieiv)
-- 🧪 Building: QuantCup, Freeman Financial Framework, Worldlayer, uCOMM
