@@ -1,112 +1,101 @@
-# Hi, I'm Acie 👋
+# Hi, I'm Acie
 
-**Business-Fluent Technical Analyst | Context Systems Builder**
+**Financial Data Analyst | Agentic AI & Automation**
 
-I build data systems, analytics tools, and AI-enabled decision-support software that turn fragmented information into usable intelligence for real decisions.
+I work with financial and operational data—and design AI agents and
+workflows for research, analysis, and software development.
 
-My background spans financial data analysis, regulated banking operations, telecom finance analytics, ETL automation, dashboarding, and business decision support. I’m now deepening that foundation through public technical projects in Python, SQL, APIs, machine learning, AI workflows, and full-stack data products.
+My background spans capital-markets operations, telecom finance analytics,
+SQL-based reporting, data quality, and workflow automation. Alongside my
+professional work, I build independent data and AI systems that connect
+information, analysis, and practical decisions.
 
----
+## Professional Background
 
-## Tech I Use
+At Bank of America, I work in Global Markets Operations supporting credit
+and structured-finance workflows, including leveraged loans, CLOs,
+trustee data, and borrowing-base reporting. My work involves validating
+financial information, investigating discrepancies, and improving
+reporting processes and controls.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Previously at Spectrum Enterprise, I worked in financial data analysis
+and business operations. That included SQL source integration,
+finance-database ownership, Alteryx workflows, Tableau reporting, and
+analysis supporting financial and operational decisions.
 
----
+That experience shapes how I work: understand the business question,
+check the data, investigate what does not reconcile, and explain the
+result clearly.
 
-## AI / Data Tooling
+## How I Work with AI
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-Typed%20Agents-E92063?style=flat&logo=pydantic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+My independent AI work has two sides: using coding agents to develop
+software, and building systems that use AI for research and analysis.
 
----
+I work on agent responsibilities, instructions, data and tool integration,
+structured outputs, source traceability, validation, and human-review
+steps. I use Codex and Claude Code within a development process that
+includes scoped tasks, testing, code review, and iteration.
 
-## Current Direction
+The goal is useful, inspectable work—not automation for its own sake.
+I combine AI with ordinary code and explicit checks rather than asking
+a model to handle every part of a workflow.
 
-I’m focused on building practical technical projects that sit at the intersection of:
+## Independent Systems Work
 
-- Finance and decision-support systems
-- Data engineering and analytics workflows
-- AI-assisted research and automation
-- Product-minded software development
-- Clear communication of complex data
+### QuantCup
 
-The common thread: taking messy signals, structuring them, and turning them into something people can actually use.
+[QuantCup](https://quantcup.io) is a football-intelligence platform in
+development, combining NFL data, model outputs, and AI analyst workflows.
 
----
+My work spans data processing, research integration, structured analyst
+outputs, APIs, validation, and operational tooling. A recurring focus is
+keeping outputs connected to their supporting data and evidence.
 
-## Featured Project
+Source repositories are private.
 
-### [QuantCup](https://quantcup.io)
+I also experiment with evidence-linked research and timestamped
+market-data workflows. These are development and research projects,
+not claims of validated trading performance.
 
-QuantCup is a football intelligence platform currently in beta. It uses data, machine learning models, and AI-assisted analysis to publish weekly NFL predictions and insights.
+## Public Portfolio in Progress
 
-The project is my main public technical build and is designed to demonstrate:
+I am developing three focused, notebook-first projects to make my
+analytical methods and technical understanding easier to inspect.
 
-- Python-based data workflows
-- SQL-backed analytics
-- Model evaluation and performance tracking
-- API-driven application architecture
-- Frontend presentation of analytical insights
-- Transparent reporting around prediction quality
+The repositories and starter notebooks are set up. Analysis and findings
+are still to be completed.
 
----
+| Project | Focus |
+| --- | --- |
+| [NFL Analytics with pandas](https://github.com/acieiv/nfl-analytics-with-pandas) | Practical Python and pandas: cleaning, joins, reshaping, grouped analysis, windows, and validation. |
+| [Credit Portfolio Analytics](https://github.com/acieiv/credit-portfolio-analytics) | SQL and pandas applied to loan-performance data, cohort analysis, reconciliation, and portfolio reporting. |
+| [Quant Research Project](https://github.com/acieiv/quant-research-project) | Hypothesis formulation, statistical testing, uncertainty, robustness, and a clear research memo. |
 
-## Public Project Themes
+## Tools and Working Methods
 
-I’m building projects across a few focused areas:
+**Professional analytics:** SQL, Alteryx, Tableau, Excel, Teradata.
 
-### Financial Decision Systems
-Tools that help translate personal finance data into clearer decisions around debt, cash flow, savings, and long-term planning.
+**Independent data and AI work:** Python, pandas, PostgreSQL, APIs,
+structured LLM outputs, agent workflows, Codex, and Claude Code.
 
-### Sports Analytics & Forecasting
-Projects focused on predictive modeling, performance tracking, betting-market analysis, and data storytelling.
+**Current portfolio study:** DuckDB for local SQL analysis; SciPy and
+statsmodels for statistical research.
 
-### AI-Assisted Research & Automation
-Workflows that use LLMs, agents, structured outputs, and retrieval to turn scattered information into useful briefs, summaries, and decision-support artifacts.
+**Supporting application development:** FastAPI, Next.js, TypeScript,
+and Git-based development workflows.
 
-### Data Engineering & Analytics Apps
-Projects involving API ingestion, database design, ETL/ELT workflows, dashboards, model evaluation, and full-stack data products.
+## How I Think About Data
 
----
+I use “context systems” to describe tools that collect, organize, analyze,
+and explain information around a real question.
 
-## Background
+The goal is to help someone understand what changed, why it matters,
+and what evidence supports a decision. AI can help with that process,
+but data quality, domain understanding, and clear communication remain
+central.
 
-I currently work in Global Markets Operations, supporting credit and structured finance workflows with exposure to leveraged loans, CLOs, trustee reporting, borrowing-base reporting, compliance processes, and reporting automation.
+## Connect
 
-Before that, I worked in telecom finance analytics and business operations, where I built ETL workflows, dashboards, reporting tools, and decision-support processes for financial and operational teams.
-
-That background shapes how I build: I care about software that is technically useful, business-aware, and clear enough for real stakeholders to trust.
-
----
-
-## What I'm Working Toward
-
-I’m using GitHub to document my progression from business analytics into more technical data and software work.
-
-My goal is to build public projects that demonstrate:
-
-- Stronger Python and SQL engineering
-- Practical API and database workflows
-- Applied machine learning and model evaluation
-- AI-enabled research and automation systems
-- Data products that explain insights clearly
-- Software that supports real decisions, not just dashboards
-
----
-
-## Find Me
-
-- 🌐 Website: [quantcup.io](https://quantcup.io)
-- 💼 LinkedIn: [linkedin.com/in/acieiv](https://www.linkedin.com/in/acieiv)
+[LinkedIn](https://www.linkedin.com/in/acieiv) ·
+[QuantCup](https://quantcup.io)
