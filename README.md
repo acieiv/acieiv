@@ -71,52 +71,16 @@ are still to be completed.
 
 ## 🧰 Tools and Working Methods
 
-### Professional analytics
+Tools across professional analytics, independent projects, and current portfolio study.
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
-
-### Independent data and AI work
-
-**Data and storage**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Agent frameworks**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-Typed%20Agents-E92063?style=flat&logo=pydantic&logoColor=white)
-
-**AI and coding tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-
-### Current portfolio study
-
-Local SQL analysis and statistical research.
-
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat)
-
-### Supporting application development
-
-Application and Git-based development workflows.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+| Area | Tools | What I use them for |
+| :--- | :--- | :--- |
+| **Professional analytics** | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white) | Reporting, data validation, dashboards, and financial analysis. |
+| **Python & data work** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white) | Data wrangling, structured analysis, storage, and automation in independent projects. |
+| **Agent frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-1C3C3C?style=flat&logo=langchain&logoColor=white) ![PydanticAI](https://img.shields.io/badge/PydanticAI-Typed%20Agents-E92063?style=flat&logo=pydantic&logoColor=white) | Tool-connected workflows, structured outputs, and agent orchestration in independent projects. |
+| **AI & coding tools** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) | Scoped implementation, coding assistance, review, and iteration. |
+| **Current portfolio study** | ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat) | Local SQL, statistics, and research methods being developed through the notebook projects. |
+| **Application development** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | APIs, interfaces, and supporting infrastructure for independent data and AI projects. |
 
 ## How I Think About Data
 
